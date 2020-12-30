@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1609068514 source:d:\college\2nd year - 1st semester\computer organization\assignments\labs\lab 2\8-bit simulator\main.c
+	<stdio.h>
+	<stdlib.h>
+
